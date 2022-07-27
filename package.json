@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "compileAndRun": "ts-node MikhailNepomniashchij/2/main.ts"
+    "compileAndRun": "ts-node MikhailNepomniashchij/3 Arrays and Objects/arrays.ts"
   },
   "dependencies": {
     "axios": "^0.27.2"
