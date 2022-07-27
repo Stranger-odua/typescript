@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "compileAndRun": "ts-node MikhailNepomniashchij/2/main.ts"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
